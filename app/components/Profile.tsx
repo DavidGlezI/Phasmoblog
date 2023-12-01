@@ -6,7 +6,7 @@ export default function Profile(){
             <Image 
                 className="border-4  drop-shadow-xl
                 shadow-black rounded-full mx-auto mt-8"
-                src="/Phasmoblog/images/book.jpg"
+                src="/Phasmoblog/images/book.jpg" // Change this later and post images Check for basePath solution
                 width={200}
                 height={200}
                 alt = "David"
