@@ -10,7 +10,7 @@ Testing saw its origins after World War 2, but it was nothing close to what we n
 
 This meant just using __print statements to see where the code broke and patching it__. Of course, this all led to __poorly maintained programs__ and larger projects were easy to lose track of. It goes without saying that __documentation was practically non-existent__ and the programmers themselves were the documentation… __*Yes, the meme was real.*__
 
-![Meme-image/alt-text](/images/documentation.jpeg "Meme")
+![Meme-image/alt-text](/Phasmoblog/images/documentation.jpeg "Meme")
 
 __This was costing organizations and companies a lot of money when it meant that nothing was reliable and everything could break any second. So something had to be done.__
 ss
@@ -43,4 +43,4 @@ Sure, __technology__ and specifically __writing code__ can be seen as a not so s
 
 This doesn't mean that all codebases are well documented and bugs are non existent… that would just be impossible, in fact, software is a thing of its own and... __*at the end of the day, it doesn't matter how reliable codebases are, it all truly comes down to some random project that one guy maintains and it happens to be the support of all technological infrastructure in the world.*__
 
-![Meme-image2/alt-text](/images/reality.jpeg "Meme2")
+![Meme-image2/alt-text](/Phasmoblog/images/reality.jpeg "Meme2")
